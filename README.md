@@ -1,6 +1,6 @@
 # Water_Risk_Practicum
 
-This repository contains a series of notebooks used in workshops to introduce scientific Python to peers at the Institute for Environmental Sciences (IVM), Vrije Universiteit Amsterdam.
+This repository contains a notebook on local scale drought vulnerability for the course Water Risks at the Institute for Environmental Research, Vrije Universiteit Amsterdam.
 
 # Run
 
